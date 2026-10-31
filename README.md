@@ -1,7 +1,7 @@
 # Cynbit AI Inquiry Triage (PoC)
 
 AI/ML Engineer Intern task: *Identify an AI Opportunity for Cynbit.* — by Alfez Khan ([github.com/Alfez09](https://github.com/Alfez09))
-**Chosen opportunity:** automated triage of inbound website inquiries (classify (AI automation / custom IT / digital marketing / BitElevate / careers / other) → lead-score → route → draft reply.
+**Chosen opportunity:** automated triage of inbound website inquiries: classify (AI automation / custom IT / digital marketing / BitElevate / careers / other) → lead-score → route → draft reply.
 
 ## Deliverables
 - `docs/01_AI_Opportunity_Report.md` – opportunity analysis & prioritisation
