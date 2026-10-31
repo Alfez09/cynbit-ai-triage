@@ -8,11 +8,12 @@ Author: Alfez Khan (github.com/Alfez09) | Task: AI/ML Engineer Intern – Identi
   - *Custom IT:* full-stack web/mobile, backend systems (99.9% uptime goal), AWS/Azure cloud, legacy migration.
   - *Digital Marketing:* performance ads (Google/Meta), technical SEO, CRM automation, funnel optimisation.
 - **BitElevate:** flagship training initiative (ecosystem, learning paths, student diaries). Also a Product Suite (a "proprietary SaaS suite" is referenced in a QA internship post) and Case Studies pages – *not reviewed in detail*.
+- **Products / case studies named in research notes (names only, not independently verified):** Cynbit Studio, Revio, WizHealth, EContentPrep, Cloudy Tales, Evento, GlobalPay. The notes describe them as spanning AI/ML, LLM apps, backend, data processing and cloud work across several industries. Whether each is an ongoing client engagement, completed engagement, internal demo or portfolio example is **unknown**; I did not review their pages, so no feature or architecture claims are made about them.
 - **Hiring:** 12 internships (business, marketing, tech incl. AI/ML Engineer Intern) + 8 full-time roles (growth + core engineering incl. AI Engineer) – all Remote/Jaipur.
 - **Inquiry Hub:** one form (Full Name, Email, optional Company, optional Industry, Message) promising a **24 h response** and a "tailored strategic overview before we connect"; plus emails (opportunities@, support@), 3 phone lines and an FAQ. Newsletter claims 25k+ readers (company claim).
 
 ## 2. Key observation
-Four very different intents – **client projects (3 service lines), BitElevate enrolments, job/internship applications, and support/spam** – arrive through a shared form and shared inboxes. Every message must be read, classified, routed and answered manually within a 24 h promise, and the "strategic overview" needs requirement extraction before the first call. Cynbit also *sells* AI agents, LLM automation and CRM automation, so solving this internally doubles as a live case study.
+Four very different intents – **client projects (3 service lines), BitElevate enrolments, job/internship applications, and support/spam** – arrive through a shared form and shared inboxes. Every message must be read, classified, routed and answered manually within a 24 h promise, and the "strategic overview" needs requirement extraction before the first call. These products suggest the same triage/RAG building blocks could later be reused across Cynbit's own offerings (to be validated with the team). Cynbit also *sells* AI agents, LLM automation and CRM automation, so solving this internally doubles as a live case study.
 
 ## 3. Opportunities (ordered by score)
 | # | Opportunity | Users | Value | Effort | Data | Risk |
