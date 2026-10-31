@@ -1,0 +1,43 @@
+text,label
+"We want to automate customer support using an AI chatbot trained on our documents.",ai_automation
+"Looking for LLM automation to extract data from invoices and PDFs, our team wastes 20 hours a week on manual data entry.",ai_automation
+"Can you build an AI voice agent that answers calls and books appointments for our clinic?",ai_automation
+"We need autonomous AI agents to qualify leads and update our CRM automatically.",ai_automation
+"Want to embed AI into our existing SaaS stack, with summarization and smart search.",ai_automation
+"Need a RAG assistant over our product manuals and an automated email reply workflow.",ai_automation
+"Interested in a machine learning model to predict customer churn from our sales data.",ai_automation
+"We need a scalable web platform with user login, payments and an admin dashboard.",custom_it
+"Looking for a mobile app for Android and iOS for our delivery business with live tracking.",custom_it
+"Need a high-performance backend with secure APIs and 99.9% uptime.",custom_it
+"We want to migrate our legacy monolith to a cloud based distributed system on AWS.",custom_it
+"Build us a custom CRM and billing SaaS platform integrated with our accounting tools.",custom_it
+"Please redesign our old website, make it responsive and faster with a CMS.",custom_it
+"Need cloud deployment on Azure with CI/CD pipelines and zero-trust security.",custom_it
+"We want Google and Meta ads to generate leads for our real estate project, monthly ad budget Rs 1 lakh.",digital_marketing
+"Need a technical SEO audit and ranking improvement for our e-commerce store.",digital_marketing
+"Looking for funnel optimization and high-converting landing pages for our course.",digital_marketing
+"Can you set up email nurturing campaigns and marketing automation for our leads?",digital_marketing
+"We need a digital marketing agency to manage our social media ads and increase ROI.",digital_marketing
+"Our website traffic is low, please improve our search rankings and run performance ads.",digital_marketing
+"Want a growth marketing partner for lead generation and conversion tracking.",digital_marketing
+"How can I join the BitElevate program, what are the fees and duration?",bitelevate
+"I want to learn Python and AI through your learning paths, is there a batch for freshers?",bitelevate
+"Is there a bootcamp or mentorship cohort starting next month?",bitelevate
+"Our college wants to partner for a campus training workshop for students.",bitelevate
+"Do you provide certificates and project-based training under BitElevate?",bitelevate
+"I want to enroll in the learning program to become a full-stack developer.",bitelevate
+"Can I get enrollment details for the next training batch?",bitelevate
+"I want to apply for the AI/ML Engineer Intern position, attaching my resume.",careers
+"Are there any openings for backend developer or DevOps engineer roles?",careers
+"Please share the hiring process for the Business Development Executive role.",careers
+"I am a fresher with a B.Tech degree, looking for a job opportunity at your company.",careers
+"Sending my portfolio and CV for the full stack developer internship, kindly consider my profile.",careers
+"Applying for the Content Marketing Intern role, resume attached.",careers
+"What experience is required and what is the salary for the AI Engineer position?",careers
+"We offer 1000 cheap backlinks for just $50, guaranteed ranking, reply now.",other
+"Congratulations, you have won a prize! Click this link to claim your reward now.",other
+"Buy cheap followers and likes for your social media pages today.",other
+"Looking to sell you an email database of 5 million contacts at a discount.",other
+"Where is your office located and what are your working hours?",other
+"I need help with my laptop, it is not turning on, can you repair it?",other
+"We are a web development company offering outsourcing at low rates, partner with us.",other
