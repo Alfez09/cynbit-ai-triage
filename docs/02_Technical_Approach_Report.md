@@ -50,4 +50,4 @@ PoC: Streamlit (single inquiry + batch CSV with download). Next: FastAPI `/triag
 | Wk 4+ | Embeddings/fine-tune, learn scoring from conversions, add RAG assistant, blueprint generator |
 
 ## 9. Limitations
-Synthetic data; categories inferred from public pages (Product Suite and Case Studies pages not reviewed; product names are only from secondary notes); English-only; regex budgets miss unusual phrasing; LLM replies require human approval; no live integration in the PoC.
+Synthetic data; categories inferred from public pages (Product Suite page and full case-study texts not reviewed; only case-study titles were read); English-only; regex budgets miss unusual phrasing; LLM replies require human approval; no live integration in the PoC.
